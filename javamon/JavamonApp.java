@@ -1,5 +1,7 @@
 package javamon;
 
-public class JavamonApp {
+import javafx.Application.Application;
+
+public class JavamonApp extends Application {
     
 }
